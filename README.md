@@ -7,7 +7,7 @@ Nebula is a Holographic Shopping App for the Microsoft Hololens.
 
 It is a project done as part of my Capstone Project at Drexel University.
 
-This is a copy of the Nebula Backend System that I have written for the Project.
+This is a copy of the Nebula Backend System and REST API that I have written for the Project.
 
 It is currently written in Golang. I will update this with all major releases of the backend system code, it will not be up to date on minor releases.
 
