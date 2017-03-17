@@ -3,7 +3,7 @@ Nebula API
 
 Description
 ------------
-Nebula is a Holographic Shopping App for the Microsoft Hololens
+Nebula is a Holographic Shopping App for the Microsoft Hololens.
 
 It is a project done as part of my Capstone Project at Drexel University.
 
