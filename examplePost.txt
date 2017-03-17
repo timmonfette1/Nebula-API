@@ -1,0 +1,11 @@
+FOR ADDING AN ITEM
+==================
+curl -H "Content-Type: application/json" -d '{ "category" : "electronics", "seller" : "Mr. Electronic", "price" : "$300", "model" : "model_mod_username", "texture": "texture_tex_username", "email" : "newemail@newemail", "item" : "example TV", "itemdesc" : "used" }' localhost:5073/additem
+
+FOR ADDING A CATEGORY
+=====================
+curl -H "Content-Type: application/json" -d '{ "name" : "testColl" }' localhost:5073/addcat
+
+FOR ADDING A USER
+=================
+curl -H "Content-Type: application/json" -d '{ "username" : "tylerbrittin", "password" : "badpass", "firstname" : "Tyler", "lastname" : "Brittin", "email" : "brittin.tyler@email.com" }' localhost:5073/adduser
